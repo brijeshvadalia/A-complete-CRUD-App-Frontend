@@ -27,6 +27,8 @@
 
 - Learnt the real case scneario of useState and useEffect
 
+- Also learnt the real case scneario of `Proxy`. 
+
 
 
 
