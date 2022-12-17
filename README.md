@@ -1,70 +1,87 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Social Links -->
 
-## Available Scripts
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![Hashnode][hashnode-shield]][hashnode-url]
 
-In the project directory, you can run:
+![BADGE](https://img.shields.io/badge/LCO--INEURON-HITESH%20CHOUDHARY-lightgrey)
+![BADGE](https://img.shields.io/badge/INEURON-FULL--STACK--JAVASCRIPT--WEBDEVELOPMENT-lightgrey)
 
-### `npm start`
+>![BADGE](https://img.shields.io/badge/MADE%20WITH%20FUN%20BY-BRIJESH%20VADALIA-blue)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> ![Gif](https://qliqintegrations.com/assets/uploads/media-uploader/code1633020603.gif)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+> # All About `CRUD App Frontend` 😎
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# **Gained expertise through this project :**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Learnt how to connect Frontend with Backend with Axios
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Learnt Basic About Axios
 
-### `npm run eject`
+- Learnt Basic of react-toast
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Learnt the real case scneario of useState and useEffect
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+># Designed With 😇
+>## TECHNOLOGIES USED 
+>![badge](https://img.shields.io/badge/HTML5-HTML5-orange)
+![BADGE](https://img.shields.io/badge/CSS3-CSS3-blue)
+![BADGE](https://img.shields.io/badge/JAVASCRIPT-JAVASCRIPT-yellow)
+![BADGE](https://img.shields.io/badge/REACTJS-REACTJS-blue)
+>## Making Use of Tools
+>![BADGE](https://img.shields.io/badge/GOOGLE-CHROME-blue)
+>![BADGE](https://img.shields.io/badge/GIT-HUB-lightgrey)
+>![BADGE](https://img.shields.io/badge/VS-CODE-blue)
+>![BADGE](https://img.shields.io/badge/GIT-GIT-orange)
+# HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+>![Screenshot](./screenshot/screenshot-1.png)
+>![Screenshot](./screenshot/screenshot-2.png)
+>![Screenshot](./screenshot/screenshot-3.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+>## For any query you can reach out at brijeshvadaliya1@gmail.com I am happy to help 😎
+># HAPPY LEARNING 🤩
+>![image](https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/Comp-Man.gif)
+>## Any app that can be written in JavaScript, will eventually be written in JavaScript.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+<!-- Linkedin -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B5FBB
+[linkedin-url]: https://www.linkedin.com/in/brijesh-vadaliya-16b3a2202/
+
+<!-- Instagram -->
+
+[instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/brijesh_vadaliya_8128/
+
+
+<!-- Hashnode -->
+
+[hashnode-shield]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
+[hashnode-url]: https://brijeshvadaliya8128.hashnode.dev/
+
+
+
+
