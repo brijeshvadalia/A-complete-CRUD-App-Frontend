@@ -1,9 +1,23 @@
-
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import React, { useState , useEffect  } from "react";
 import axios from "axios";
 
-
 function UserDetails() {
+  const editUser = () => {toast.success('Edited Successufully')};
+// eslint-disable-next-line
+    const deleteUser = () => {
+      const resolveAfter3Sec = new Promise(resolve => setTimeout(resolve, 3000));
+      
+toast.promise(
+    resolveAfter3Sec,
+    {
+      pending: 'Deletion in Process',
+      success: 'Deleted Successufully',
+      error: 'Deletion failed'
+    }
+)
+    }
     const [userData, setUserData] = useState(null);
 
     const fetchUserData = async () => {
@@ -33,16 +47,34 @@ function UserDetails() {
           email: userEmail,
         });
         console.log(resp);
+        editUser();
       }
+    
     };
+  
   
     // DELETE
     const handleDelete = async (userId) => {
       const resp = await axios.delete(`/deleteUser/${userId}`);
       console.log(resp);
+      deleteUser();
     };
     return (
+      
       <section className="text-gray-600 body-font">
+        
+        <ToastContainer
+        position="top-center"
+        autoClose={5000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        theme="light"
+        />
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-8">
             <h1 className="sm:text-4xl text-3xl font-medium title-font mb-2 text-gray-900">
